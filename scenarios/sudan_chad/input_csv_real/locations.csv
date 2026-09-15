@@ -1,0 +1,6 @@
+#"name","region","country","lat","lon","location_type","conflict_date","population"
+"El_Geneina","West_Darfur","Sudan",13.44200,22.44600,"conflict_zone",0,253000
+"Adre","Ouaddai","Chad",13.46646,22.19772,"marker",,0
+"Ouaddai","Ouaddai","Chad",13.58300,20.83300,"camp",,319545
+"Sila","Sila","Chad",12.22500,21.41400,"camp",,63808
+"Wadi_Fira","Wadi_Fira","Chad",15.11600,22.25000,"camp",,28983

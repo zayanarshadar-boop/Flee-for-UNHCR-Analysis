@@ -1,0 +1,9 @@
+Scenario,Sensitivity_type,Target,Multiplier,Percentage_change
+el_geneina_minus20,population,El_Geneina,0.8,-19.999999999999996
+el_geneina_plus20,population,El_Geneina,1.2,19.999999999999996
+foro_baranga_minus20,population,Foro_Baranga,0.8,-19.999999999999996
+foro_baranga_plus20,population,Foro_Baranga,1.2,19.999999999999996
+kulbus_minus20,population,Kulbus,0.8,-19.999999999999996
+kulbus_plus20,population,Kulbus,1.2,19.999999999999996
+routes_minus20,routes,all_routes,0.8,-19.999999999999996
+routes_plus20,routes,all_routes,1.2,19.999999999999996

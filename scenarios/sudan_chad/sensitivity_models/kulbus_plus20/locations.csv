@@ -1,0 +1,10 @@
+#"name","region","country","lat","lon","location_type","conflict_date","population"
+"El_Geneina","West_Darfur","Sudan",13.44200,22.44600,"conflict_zone",0,679249
+"Foro_Baranga","West_Darfur","Sudan",12.12964,22.60643,"conflict_zone",0,90613
+"Kulbus","West_Darfur","Sudan",14.36572,22.46143,"conflict_zone",0,75887
+"Adre","Ouaddai","Chad",13.46670,22.20000,"marker",,0
+"Ade","Sila","Chad",12.66667,21.90000,"marker",,0
+"Tine","Wadi_Fira","Chad",15.01771,22.81857,"marker",,0
+"Ouaddai","Ouaddai","Chad",13.58300,20.83300,"camp",,1000000
+"Sila","Sila","Chad",12.22500,21.41400,"camp",,1000000
+"Wadi_Fira","Wadi_Fira","Chad",15.11600,22.25000,"camp",,1000000

@@ -1,0 +1,12 @@
+networkx
+matplotlib
+pandas
+pytest
+mpi4py
+numpy
+beartype
+seaborn
+muscle3
+pyyaml
+setuptools
+

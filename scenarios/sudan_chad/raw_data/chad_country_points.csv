@@ -1,0 +1,6 @@
+date,value,reported_metric,source_file,status,notes
+2023-04-15,0,simulation_baseline,none,assumption,"Conflict start baseline"
+2023-07-03,192473,fixed_new_arrivals,chad_arrivals_2023-07-03.pdf,usable_with_caution,"UNHCR fixed-arrival estimate"
+2023-09-06,412336,fixed_new_arrivals,chad_arrivals_2023-09-06.pdf,usable_with_caution,"UNHCR warns figure may later be reduced"
+2023-11-25,451894,fixed_new_arrivals,chad_arrivals_2023-11-25.pdf,usable_with_caution,"Country-wide fixed new arrivals"
+2023-12-26,484626,sudanese_refugees,sudan_weekly_2023-12-26.pdf,metric_difference,"Country-wide Sudanese refugee figure; definition differs slightly"

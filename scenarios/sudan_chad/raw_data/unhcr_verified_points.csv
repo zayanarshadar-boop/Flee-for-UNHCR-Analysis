@@ -1,0 +1,5 @@
+date,geographic_level,location,metric,value,source_file,status,notes
+2023-07-03,camp,Farchana,camp_population,32500,chad_arrivals_2023-07-03.pdf,usable,Population shown as 32.5K on UNHCR registration map
+2023-09-06,camp,Farchana,camp_population,36900,chad_arrivals_2023-09-06.pdf,usable,Population shown on UNHCR camp map
+2023-09-06,country,Chad,fixed_new_arrivals,412336,chad_arrivals_2023-09-06.pdf,usable_with_caution,UNHCR states figure may later be revised
+2023-12-26,country,Chad,sudanese_refugees,484626,sudan_weekly_2023-12-26.pdf,usable_country_only,Country total; must not be assigned to Farchana

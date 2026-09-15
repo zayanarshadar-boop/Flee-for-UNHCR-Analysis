@@ -1,0 +1,16 @@
+Sudan-Chad FLEE topology revision
+
+The initial province-level network used a single border transit point (Adre)
+connected directly to aggregate Ouaddai, Sila and Wadi_Fira destination proxies.
+
+A uniform-capacity diagnostic showed substantial spatial allocation error:
+Ouaddai: 214323 simulated vs 319545 observed
+Sila: 106613 simulated vs 63808 observed
+Wadi Fira: 91396 simulated vs 28983 observed
+
+UNHCR evidence indicates that displacement into eastern Chad occurred through
+more than 32 border entry points and that refugees were distributed across
+spontaneous settlements, transit locations and multiple camps.
+
+Therefore the single-Adre three-province topology is treated as a simplified
+diagnostic model, not the final historical validation network.
